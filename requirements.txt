@@ -1,0 +1,7 @@
+fastapi[all]
+passlib[bcrypt]
+aiomysql
+alembic
+python-dotenv
+cryptography
+python-jose
