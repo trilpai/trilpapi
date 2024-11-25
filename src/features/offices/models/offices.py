@@ -12,6 +12,7 @@ from sqlalchemy import (
 from sqlalchemy.orm import relationship
 from src.models.base import Base
 from datetime import datetime
+from src.features.users.models.users import User
 
 
 class Office(Base):
